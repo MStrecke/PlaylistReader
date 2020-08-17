@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">PlaylistReader</string>
+    <string name="dump_all_entries">Export all entries</string>
+    <string name="read_playlist">Read playlist</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_title_warning">Warning</string>
+    <string name="dialog_title_success">Success</string>
+    <string name="dialog_message_playlist_x_already_exists">Playlist %s already exists</string>
+    <string name="dialog_message_no_valid_entries">No valid entries in selected file</string>
+    <string name="dialog_message_no_matching_entries">No matching entries in playlist file</string>
+    <string name="error_missing_permissions">Read/write permissions missing.</string>
+    <string name="dialog_message_playlist_name_not_found">Cannot extract playlist name from file name</string>
+    <string name="dialog_neutral_button">OK</string>
+    <string name="import_result_full">"Playlist %s imported\n%d entries"</string>
+    <string name="import_result_part">"Playlist %s partially imported\n%d entries in list\n%d entries imported"</string>
+    <string name="version_str">Version: %s</string>
+</resources>

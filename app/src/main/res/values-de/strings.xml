@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlaylistReader</string>
+    <string name="read_playlist">Playlist einlesen</string>
+    <string name="dump_all_entries">Alle Einträge exportieren</string>
+    <string name="dialog_title_error">Fehler</string>
+    <string name="dialog_title_warning">Warnung</string>
+    <string name="dialog_title_success">Einlesen erfolgreich</string>
+    <string name="dialog_message_playlist_x_already_exists">Playlist %s bereits vorhanden</string>
+    <string name="dialog_message_no_valid_entries">Keine gültigen Einträge in Datei gefunden</string>
+    <string name="dialog_message_no_matching_entries">Keine zuordnungsbaren Einträge gefunden</string>
+    <string name="error_missing_permissions">Lese-/Schreib-Erlaubnis nicht erteilt</string>
+    <string name="dialog_message_playlist_name_not_found">Kann Name der Playlist nicht aus Dateinamen herleiten</string>
+    <string name="dialog_neutral_button">OK</string>
+    <string name="import_result_full">"Playlist %s importiert\n%d Einträge"</string>
+    <string name="import_result_part">"Playlist %s teilweise importiert\n%d Einträge in Liste\n%d Einträge importiert"</string>
+    <string name="version_str">Version: %s</string>
+</resources>
